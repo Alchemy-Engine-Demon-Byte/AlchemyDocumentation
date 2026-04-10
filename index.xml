@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Alchemy Engine</title>
+      <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation</link>
+      <description>Last 10 notes on Alchemy Engine</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Input Profiles</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Profiles</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Profiles</guid>
+    <description><![CDATA[ InputProfile maps physical inputs to logical named actions with modifiers and trigger modes. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 23:49:43 GMT</pubDate>
+  </item><item>
+    <title>Input State Component</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-State-Component</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-State-Component</guid>
+    <description><![CDATA[ InputStateComponent is the per-entity resolved input state read by all game and AI processors. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 23:49:43 GMT</pubDate>
+  </item><item>
+    <title>Catalyst</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Catalyst</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Catalyst</guid>
+    <description><![CDATA[ Overview of the Catalyst ECP (Entity-Component-Processor) system and its core concepts. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 22:11:10 GMT</pubDate>
+  </item><item>
+    <title>Components</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</guid>
+    <description><![CDATA[ Component declaration, slots, slot hierarchies, constructors, and memory layout in Catalyst. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 22:11:10 GMT</pubDate>
+  </item><item>
+    <title>Observer</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Observer</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Observer</guid>
+    <description><![CDATA[ Observers are event-driven processors that trigger on ECS structural changes like Add and Remove. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 22:11:10 GMT</pubDate>
+  </item><item>
+    <title>Processor</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Processor</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Processor</guid>
+    <description><![CDATA[ Processors are the logic units of Catalyst — they query and transform component data every frame. ]]></description>
+    <pubDate>Sat, 04 Apr 2026 22:11:10 GMT</pubDate>
+  </item><item>
+    <title>Developing Alchemy Engine</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Alchemy-Engine/Developing-Alchemy-Engine</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Alchemy-Engine/Developing-Alchemy-Engine</guid>
+    <description><![CDATA[ Onboarding guide for new Alchemy Engine developers — setup, build, architecture, style, and workflow. ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:16:00 GMT</pubDate>
+  </item><item>
+    <title>Annotations</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Annotations</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Annotations</guid>
+    <description><![CDATA[ Attach metadata and behaviour to components and structs using the Annotations system. ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:16:00 GMT</pubDate>
+  </item><item>
+    <title>Build System</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Build-System/Build-System</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Build-System/Build-System</guid>
+    <description><![CDATA[ ABT (Alchemy Build Tool) and CMake two-stage build pipeline for the engine. ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:16:00 GMT</pubDate>
+  </item><item>
+    <title>Entity Library</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Library</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Library</guid>
+    <description><![CDATA[ The EntityLibrary is the core world container for all entities, components, archetypes, processors, and queries in Catalyst. ]]></description>
+    <pubDate>Thu, 02 Apr 2026 13:16:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
