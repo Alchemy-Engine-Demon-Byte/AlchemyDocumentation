@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Alchemy Engine</title>
+      <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation</link>
+      <description>Last 10 notes on Alchemy Engine</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Input Handlers</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Handlers</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Handlers</guid>
+    <description><![CDATA[ Custom IInputProcessor steps in the input pipeline — priority, ordering, and event consumption. ]]></description>
+    <pubDate>Wed, 01 Jul 2026 12:56:48 GMT</pubDate>
+  </item><item>
+    <title>Input Profiles</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Profiles</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-Profiles</guid>
+    <description><![CDATA[ InputProfile maps physical inputs to logical named actions with modifiers and trigger modes. ]]></description>
+    <pubDate>Wed, 01 Jul 2026 12:56:48 GMT</pubDate>
+  </item><item>
+    <title>Input State Component</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-State-Component</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input-State-Component</guid>
+    <description><![CDATA[ InputStateComponent is the per-entity resolved input state read by all game and AI processors. ]]></description>
+    <pubDate>Wed, 01 Jul 2026 12:56:48 GMT</pubDate>
+  </item><item>
+    <title>Input</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Input/Input</guid>
+    <description><![CDATA[ Input pipeline overview — from GLFW hardware events to InputStateComponent on entities. ]]></description>
+    <pubDate>Wed, 01 Jul 2026 12:56:48 GMT</pubDate>
+  </item><item>
+    <title>Entity Query</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Query</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Query</guid>
+    <description><![CDATA[ Query entities by component composition using ForEach, ForEachParallel, and filtered queries. ]]></description>
+    <pubDate>Wed, 01 Jul 2026 07:54:02 GMT</pubDate>
+  </item><item>
+    <title>Relations</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Relations</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Relations</guid>
+    <description><![CDATA[ Typed directional links between entities as first-class ECS citizens with configurable cleanup policies. ]]></description>
+    <pubDate>Mon, 29 Jun 2026 00:57:27 GMT</pubDate>
+  </item><item>
+    <title>Components</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</guid>
+    <description><![CDATA[ Component declaration, slots, slot hierarchies, constructors, and memory layout in Catalyst. ]]></description>
+    <pubDate>Tue, 23 Jun 2026 00:12:02 GMT</pubDate>
+  </item><item>
+    <title>Config Attribute</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Config-Attribute</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Config-Attribute</guid>
+    <description><![CDATA[ Persist object fields to human-editable .ini files with LocalConfig / GlobalConfig property attributes. ]]></description>
+    <pubDate>Mon, 22 Jun 2026 20:19:48 GMT</pubDate>
+  </item><item>
+    <title>Property Attributes</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Property-Attributes</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Property-Attributes</guid>
+    <description><![CDATA[ Declarative [[...]] attributes you attach to reflected fields, structs and classes to tag them with intent. ]]></description>
+    <pubDate>Mon, 22 Jun 2026 20:19:48 GMT</pubDate>
+  </item><item>
+    <title>Processor</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Processor</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Processor/Processor</guid>
+    <description><![CDATA[ Processors are the logic units of Catalyst — they query and transform component data every frame. ]]></description>
+    <pubDate>Mon, 22 Jun 2026 20:19:14 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
