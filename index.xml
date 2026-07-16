@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Alchemy Engine</title>
+      <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation</link>
+      <description>Last 10 notes on Alchemy Engine</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Style guide</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Alchemy-Engine/Style-guide</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Alchemy-Engine/Style-guide</guid>
+    <description><![CDATA[ Code style, naming conventions, and folder structure for Alchemy Engine. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Build System</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Build-System/Build-System</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Build-System/Build-System</guid>
+    <description><![CDATA[ ABT (Alchemy Build Tool) and CMake two-stage build pipeline for the engine. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Components</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Components</guid>
+    <description><![CDATA[ Component declaration, slots, slot hierarchies, constructors, and memory layout in Catalyst. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Entity Query</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Query</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Entity-Query</guid>
+    <description><![CDATA[ Query entities by component composition using ForEach, ForEachParallel, and filtered queries. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Testing Guide</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Crucible/Testing-Guide</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Crucible/Testing-Guide</guid>
+    <description><![CDATA[ Complete guide for writing, compiling, running, and analyzing Crucible tests. Written for AI agents. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Config Attribute</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Config-Attribute</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Property-Attributes/Config-Attribute</guid>
+    <description><![CDATA[ Persist object fields to human-editable .ini files with LocalConfig / GlobalConfig property attributes. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 05:42:00 GMT</pubDate>
+  </item><item>
+    <title>Concurrent Entity Creation in Catalyst</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Technical-Papers/Concurrent-Entity-Creation-in-Catalyst</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Catalyst/Technical-Papers/Concurrent-Entity-Creation-in-Catalyst</guid>
+    <description><![CDATA[ How Catalyst lets any thread create an entity and immediately use it, without deferral — the storage redesign, the concurrency model, and the findings along the way. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 11:44:53 GMT</pubDate>
+  </item><item>
+    <title>Custom Renderable Components</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/Custom-Renderable-Components</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/Custom-Renderable-Components</guid>
+    <description><![CDATA[ How to write a Sigil widget that draws itself — the EmitDraw + thunk-dispatch model, with the engine's built-in renderables as worked examples. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:31:57 GMT</pubDate>
+  </item><item>
+    <title>List Component</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/List-Component</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/List-Component</guid>
+    <description><![CDATA[ The Sigil List node (UIListComponent) — the single reconcile point for dynamic child counts. ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:31:57 GMT</pubDate>
+  </item><item>
+    <title>Sigil</title>
+    <link>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/Sigil</link>
+    <guid>https://alchemy-engine-demon-byte.github.io/AlchemyDocumentation/Sigil/Sigil</guid>
+    <description><![CDATA[ Sigil UI framework — a retained-mode UI built on Catalyst entities, plus an immediate-mode ImGui wrapper (SigilIM). ]]></description>
+    <pubDate>Tue, 14 Jul 2026 08:31:57 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
